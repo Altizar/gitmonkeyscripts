@@ -231,6 +231,7 @@ function doTimers() {
 }
 
 function doAutoBuyCaged() {
+    return false;
     var mycost = 100 + Molpy.LogiMult(25);
     if (Molpy.Boosts['Caged Logicat'].bought > 1 && Molpy.Boosts['GlassBlocks'].power >= settings["autoCagedMin"]) {
         Molpy.MakeCagedPuzzle(mycost);
