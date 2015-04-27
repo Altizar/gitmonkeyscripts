@@ -29,7 +29,7 @@ settings["autoBuy"] = [true, 0];	//turn on autobuy feature
 var autoBuyItems = new Array(); //don't touch this line
 autoBuyItems.push("Crate Key");
 autoBuyItems.push("Locked Crate");
-autoBuyItems.push("MHP");
+//autoBuyItems.push("MHP");
 autoBuyItems.push("Locked Vault");
 autoBuyItems.push("Vault Key");
 autoBuyItems.push("Castle Crusher");
