@@ -1,13 +1,16 @@
 var Inventory = {
     "Armor": {
+        "Aged Dragon": "T07",
         "Phoenix": "T14",
-        "Royal": "T10"
+        "Royal": "T10",
+        "Thundersoul": "T16"
     },
     "Axe": {
         "Oracle Master": "T12"
     },
     "Blade": {
         "Angel": "T09",
+        "Ogre": "T08",
         "Demon Bane": "T11",
         "Soul Shattering": "T13"
     },
@@ -16,7 +19,11 @@ var Inventory = {
         "Soul Whisperer": "T13"
     },
     "Bow": {
-        "Demon Bane": "T11"
+        "Demon Bane": "T11",
+        "Atlas": "T15",
+    },
+    "Cap": {
+        "Darksin": "T08"
     },
     "Charm": {
         "Wizard": "T12",
@@ -31,7 +38,8 @@ var Inventory = {
         "Angelic": "T09"
     },
     "Destroyer": {
-        "Gloves of the": "T15"
+        "Gloves of the": "T15",
+        "Plate of the": "T15"
     },
     "Dirk": {
         "Soul Shattering": "T13"
@@ -43,7 +51,8 @@ var Inventory = {
         "Royal": "T10"
     },
     "Gloves": {
-        "Angelic": "T09",
+        "Angelic": "T09",        
+        "Scalemail": "T06",
         "Soul Whisperer": "T13"
     },
     "Greathelm": {
@@ -65,9 +74,13 @@ var Inventory = {
     "Helm": {
         "Demon Bane Great": "T11"
     },
+    "Helmet": {
+        "Scalemail": "T06"
+    }, 
     "Hood": {
         "Deva-Touched": "T12",
         "Diabolic": "T10",
+        "Dragonscale": "T07",
         "Miden's": "T13",
         "Planeswalker": "T11"
     },
@@ -77,7 +90,8 @@ var Inventory = {
     },
     "Mask": {
         "Abyssal": "T09",
-        "Deicide's": "T14"
+        "Deicide's": "T14",
+        "Cotton": "T06"
     },
     "Necklace": {
         "Royal": "T12",
@@ -89,7 +103,9 @@ var Inventory = {
     },
     "Pants": {
         "Angelic": "T09",
+        "Darkskin": "T08",
         "Royal": "T10",
+        "Scalemail": "T06",
         "Soul Whisperer": "T13"
     },
     "Ring": {
